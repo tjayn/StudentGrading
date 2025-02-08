@@ -1,3 +1,12 @@
+/* 
+ * Program To Calculate The Grade Of A Student
+ * Author: Thuku Josphat Wamwago
+ * Reg No: CT101/G/19448/23
+ * Date: 3/2/2025
+ * Version: 1
+ */
+
+
 import java.util.Scanner;
 
 //the class student
